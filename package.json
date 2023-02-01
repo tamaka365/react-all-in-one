@@ -1,0 +1,11 @@
+{
+  "name": "react-all-in-one",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "engines": {
+    "node": ">=16",
+    "pnpm": ">=7"
+  }
+}
